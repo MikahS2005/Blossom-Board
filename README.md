@@ -35,6 +35,7 @@ k-means clustering: groupings between the two factors with the highest correlati
 
 
 This document describes the project and its results in detail:
-[816044757_keyFactorsTrafficAccidents.pdf](https://github.com/user-attachments/files/20418980/816044757_keyFactorsTrafficAccidents.pdf)
+
+[keyFactorsTrafficAccidents.pdf](https://github.com/user-attachments/files/20419330/keyFactorsTrafficAccidents.pdf)
 
 
